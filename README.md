@@ -12,22 +12,6 @@ This project evaluates:
 
 All agents were tested within the MBT-Gym model-based trading environment to benchmark performance and policy behaviours.
 
-## Folder Structure
-
-.
-├── agents/\n
-│   ├── DDPGMarketMakerAgent.py\n
-│   ├── PQCMarketMakerAgent.py\n
-│   └── VQCMarketMakerAgent.py\n
-├── gym/\n
-│   └── TradingEnvironment.py\n
-├── main.py\n
-├── evaluate.py\n
-├── requirements.txt\n
-├── sbatch/\n
-│   └── train_agent.sbatch\n
-└── README.md\n
-
 ## Environment Setup
 
 Clone repository:
