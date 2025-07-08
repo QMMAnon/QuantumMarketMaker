@@ -15,18 +15,18 @@ All agents were tested within the MBT-Gym model-based trading environment to ben
 ## Folder Structure
 
 .
-├── agents/
-│   ├── DDPGMarketMakerAgent.py
-│   ├── PQCMarketMakerAgent.py
-│   └── VQCMarketMakerAgent.py
-├── gym/
-│   └── TradingEnvironment.py
-├── main.py
-├── evaluate.py
-├── requirements.txt
-├── sbatch/
-│   └── train_agent.sbatch
-└── README.md
+├── agents/\n
+│   ├── DDPGMarketMakerAgent.py\n
+│   ├── PQCMarketMakerAgent.py\n
+│   └── VQCMarketMakerAgent.py\n
+├── gym/\n
+│   └── TradingEnvironment.py\n
+├── main.py\n
+├── evaluate.py\n
+├── requirements.txt\n
+├── sbatch/\n
+│   └── train_agent.sbatch\n
+└── README.md\n
 
 ## Environment Setup
 
