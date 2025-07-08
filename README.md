@@ -70,6 +70,3 @@ The MBT-Gym folder was downloaded from the official GitHub repository and integr
 
 - This repository is anonymised for blind review.
 - No institutional or personal information is included.
-- For any queries upon unblinding, please refer to the contact details provided in the final submission.
-
-End of README
